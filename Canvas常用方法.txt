@@ -1,0 +1,32 @@
+Canvas.getContext('2d') - 返回一个用于在画布上绘图的环境
+
+translate - 将画布的(0,0)重新设置
+
+beginPath() - 设置起始点
+
+arc() - 创建一个圆形
+
+fill() - 将内部填充
+
+stroke() - 绘制
+
+linWidth - 定义宽度
+
+font - 定义字体大小
+
+textAlign - 定义文字水平对齐方式
+
+textBaseline - 定义文字垂直对齐方式
+
+fillText() - 填充文本
+
+fillStyle - 填充颜色
+
+moveTo() - 起始位置x,y
+
+lineTo() - 目标位置x,y
+
+fillRect() - 绘制矩形颜色
+
+addEventListener() - 添加事件
+
